@@ -1,0 +1,48 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.navbar-brand{font-size: 2em; font-weight: bold; padding-left: 15px;}
+
+.navi{color: aliceblue; padding-left: 20px;}
+
+.nav-item{padding-left: 100px;}
+
+.navbar #myMenu .navi .nav-item a{color: rgb(231, 231, 223); text-decoration: none;}
+
+.navbar #myMenu .navi .nav-item a:hover{color: rgb(128, 115, 95);}
+
+
+/* these css is not working so internal css is applied!!!
+
+header.jumbotron.back-img{display: flex;}
+
+.back-img{background-size: cover; background-position: center center; min-height: 95vh; background-repeat: no-repeat;}
+
+.introinner{display: block;margin-top: 142px;margin-left: 40px;} */
+/* 
+.container{align-items: center;display: flex;margin-top: 50px;} */
+
+.container .ourservice h3{color: black;}
+
+.fi-color{color:#dc3545; margin-left: 3px;}
+
+.fi-color:hover{color: aliceblue;}
+
+
+
+/* 
+@media only screen and (max-width:600px) {
+.introinner{margin-top: 350px; text-align:center;}
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
